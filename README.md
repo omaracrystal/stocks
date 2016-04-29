@@ -44,4 +44,4 @@ If you do modify the build (to add a dependency, for example), please document w
 
 Time
 ============
-You should be able to complete this task in **about TWO (2) hours**. If you run into trouble and it takes a little longer, no worries; but please document why it took longer.
+You should be able to complete this task in **about THREE (3) hours**. If you run into trouble and it takes a little longer, no worries; but please document why it took longer.
