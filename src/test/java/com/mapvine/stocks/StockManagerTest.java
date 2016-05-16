@@ -1,6 +1,6 @@
-package com.layered.stocks;
+package com.mapvine.stocks;
 
-import com.layered.stocks.model.Stock;
+import com.mapvine.stocks.model.Stock;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;

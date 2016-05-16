@@ -1,4 +1,4 @@
-package com.layered.stocks.model;
+package com.mapvine.stocks.model;
 
 import java.math.BigDecimal;
 

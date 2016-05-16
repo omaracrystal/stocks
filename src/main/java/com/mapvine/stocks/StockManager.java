@@ -1,6 +1,6 @@
-package com.layered.stocks;
+package com.mapvine.stocks;
 
-import com.layered.stocks.model.Stock;
+import com.mapvine.stocks.model.Stock;
 
 import java.math.BigDecimal;
 import java.util.List;
@@ -36,7 +36,7 @@ public class StockManager {
     /**
      * Add a new stock to be managed by our system (here 'buy' is equal to 'add').
      *
-     * @param stock          - The {@link com.layered.stocks.model.Stock} to buy
+     * @param stock          - The {@link com.mapvine.stocks.model.Stock} to buy
      * @param numberOfShares - The number of shares to purchase
      * @throws java.lang.IllegalArgumentException if numberOfShares is <= 0
      */
