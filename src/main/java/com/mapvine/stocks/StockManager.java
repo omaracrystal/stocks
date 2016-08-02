@@ -118,7 +118,7 @@ public class StockManager {
         // TODO: Implement me.
         if(numberOfShares<=0)
         {
-            throw new IllegalArgumentException("No of share is less than or eqaul to zero");
+            throw new IllegalArgumentException("Number of shares is less than or eqaul to zero");
         }
         else {
             share = 0;
@@ -191,6 +191,6 @@ public class StockManager {
     public Optional<BigDecimal> getProfitForStockByTicker(final String ticker) {
         // TODO: Implement me.
         return null;
-        
+
     }
 }
