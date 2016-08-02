@@ -89,7 +89,7 @@ public class StockManager {
         // TODO: Implement me.
         if(numberOfShares<=0)
         {
-            throw new IllegalArgumentException("No of share is less than or equal to 0");
+            throw new IllegalArgumentException("There are currently no Shares to buy!");
         }
         else
         {
