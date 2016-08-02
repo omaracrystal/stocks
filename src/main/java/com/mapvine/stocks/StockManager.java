@@ -191,5 +191,6 @@ public class StockManager {
     public Optional<BigDecimal> getProfitForStockByTicker(final String ticker) {
         // TODO: Implement me.
         return null;
+        
     }
 }
